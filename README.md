@@ -65,8 +65,8 @@ QR-based feedback collection app
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *add your LinkedIn link here*
-- 📧 Email: *add your email*
+- 💼 LinkedIn: www.linkedin.com/in/rathod-ajit
+- 📧 Email: rathodajit9@gmail.com
 - 🌱 Open to roles in **Data, Product, Business Analytics**
 
 ---
